@@ -1,2 +1,2 @@
 # ANN-Classification
-Deployment Streamlit web app with ANN trained model
+Deploying of Streamlit web app with ANN trained model
